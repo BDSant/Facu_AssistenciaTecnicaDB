@@ -19,7 +19,7 @@ O foco é mostrar a aplicação prática do modelo lógico anteriormente constru
 
 ## 🗂 2. Estrutura do Repositório
 
-`text
+```text
 /
 ├── README.md
 └── sql
@@ -27,4 +27,5 @@ O foco é mostrar a aplicação prática do modelo lógico anteriormente constru
     ├── 01_insert_dados_iniciais.sql
     ├── 02_select_consultas.sql
     ├── 03_updates_deletes.sql
+
     └── 99_drop_tables_and_database.sql     (Dropa tabelas e banco de dados)
